@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I'm just your average girl, with an interest in computing and wanting to just hop into things!
+
+I'm currently learning more about being a Project Manager as a main job but wanting to attempt small projects and explore what coding can do on the side
+
+
 <!--
 **Ryuuseiiiii/Ryuuseiiiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
